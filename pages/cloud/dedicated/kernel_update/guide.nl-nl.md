@@ -1,8 +1,8 @@
 ---
-title: 'Update van de kernel op een dedicated server'
+title: Update van de kernel op een dedicated server
 excerpt: 'Ontdek hoe u de kernel van een distributie kunt updaten met behulp van een OVH core'
 slug: update-kernel-dedicated-server
-section: 'Geavanceerd gebruik'
+section: Geavanceerd gebruik
 ---
 
 **Laatste update 14-08-2018**

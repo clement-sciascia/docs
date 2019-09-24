@@ -1,5 +1,5 @@
 ---
-title: 'Mehrere dedizierte Server im vRack konfigurieren'
+title: Mehrere dedizierte Server im vRack konfigurieren
 slug: mehrere-dedizierte-server-im-vrack-konfigurieren
 excerpt: 'Hier erfahren Sie, wie Sie mehrere dedizierte Server im vRack konfigurieren.'
 section: vRack

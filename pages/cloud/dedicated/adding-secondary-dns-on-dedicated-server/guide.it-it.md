@@ -1,8 +1,8 @@
 ---
-title: 'Creare un DNS secondario su un server dedicato'
+title: Creare un DNS secondario su un server dedicato
 slug: creare-dns-secondario-server-dedicato
 excerpt: 'Come configurare un DNS secondario sul tuo server dedicato OVH'
-section: 'Utilizzo avanzato'
+section: Utilizzo avanzato
 ---
 
 **Ultimo aggiornamento: 17/05/2019**

@@ -1,5 +1,5 @@
 ---
-title: 'Sauvegarder mes informations et mes bases de données dans un serveur de stockage'
+title: Sauvegarder mes informations et mes bases de données dans un serveur de stockage
 slug: sauvegarder-informations-bases-de-donnees-serveur-stockage
 excerpt: 'Sécuriser ses données en 5 étapes'
 section: Tutoriel

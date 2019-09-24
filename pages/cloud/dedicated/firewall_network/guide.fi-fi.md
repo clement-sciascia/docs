@@ -1,8 +1,8 @@
 ---
-title: 'Firewall Network -palomuurin konfigurointi'
+title: Firewall Network -palomuurin konfigurointi
 slug: firewall-network
 excerpt: 'Katso, kuinka Firewall Network -palomuuri konfiguroidaan'
-section: 'Verkko & IP'
+section: Verkko & IP
 ---
 
 **Päivitetty 30.8.2018**

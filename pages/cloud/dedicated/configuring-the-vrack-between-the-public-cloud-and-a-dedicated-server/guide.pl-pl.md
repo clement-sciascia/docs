@@ -1,5 +1,5 @@
 ---
-title: 'Konfiguracja sieci vRack między Public Cloud a serwerem dedykowanym'
+title: Konfiguracja sieci vRack między Public Cloud a serwerem dedykowanym
 slug: konfiguracja-vrack-pci-serwer-dedykowany
 excerpt: 'Dowiedz się, jak skonfigurować prywatną sieć między instancją Public Cloud a serwerem dedykowanym'
 section: vRack

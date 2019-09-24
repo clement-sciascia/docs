@@ -1,5 +1,5 @@
 ---
-title: 'Konfigurace služby vRack mezi dedikovaným serverem a Public Cloud instancí'
+title: Konfigurace služby vRack mezi dedikovaným serverem a Public Cloud instancí
 slug: konfigurace-vrack-pci-dedikovany-server
 excerpt: 'Zjistěte, jak nakonfigurovat privátní síť mezi dedikovaným serverem a Public Cloud instancí'
 section: vRack

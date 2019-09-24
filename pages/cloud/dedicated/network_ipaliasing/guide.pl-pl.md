@@ -1,8 +1,8 @@
 ---
-title: 'Konfiguracja adresu IP Failover jako aliasu'
+title: Konfiguracja adresu IP Failover jako aliasu
 slug: network-ip-alias
 excerpt: 'Dowiedz się, jak dodać kilka adresów IP Failover do interfejsu'
-section: 'Sieć & IP'
+section: Sieć & IP
 ---
 
 **Ostatnia aktualizacja dnia 2018-07-09**

@@ -1,8 +1,8 @@
 ---
-title: 'Iniziare a utilizzare un server dedicato'
+title: Iniziare a utilizzare un server dedicato
 slug: iniziare-a-utilizzare-server-dedicato
 excerpt: 'Come eseguire le prime operazioni su un server dedicato'
-section: 'Per iniziare'
+section: Per iniziare
 ---
 
 **Ultimo aggiornamento: 14/02/2019**

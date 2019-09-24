@@ -1,9 +1,9 @@
 ---
-title: 'Attivare e utilizzare il Rescue mode'
+title: Attivare e utilizzare il Rescue mode
 excerpt: 'Come riavviare il tuo server dedicato in modalità Rescue'
 slug: rescue_mode
 legacy_guide_number: g920
-section: 'Diagnostica e modalità Rescue'
+section: Diagnostica e modalità Rescue
 ---
 
 **Ultimo aggiornamento: 28/11/2018**

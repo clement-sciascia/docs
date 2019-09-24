@@ -1,8 +1,8 @@
 ---
-title: 'Premiers pas avec un serveur dédié'
+title: Premiers pas avec un serveur dédié
 slug: premiers-pas-serveur-dedie
 excerpt: 'Découvrez comment prendre en main votre nouveau serveur dédié'
-section: 'Premiers pas'
+section: Premiers pas
 ---
 
 **Dernière mise à jour le 16/08/2018**

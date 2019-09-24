@@ -1,8 +1,8 @@
 ---
-title: 'Introduction au SSH'
+title: Introduction au SSH
 slug: ssh-introduction
 excerpt: 'Découvrez ici comment utiliser le service SSH pour accéder à votre serveur'
-section: 'SSH et clé SSH'
+section: SSH et clé SSH
 order: 1
 ---
 

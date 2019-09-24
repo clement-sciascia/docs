@@ -1,8 +1,8 @@
 ---
-title: 'Aktualizace firewallu CISCO ASA'
+title: Aktualizace firewallu CISCO ASA
 excerpt: 'Zjistěte, jak aktualizovat svůj CISCO ASA firewall'
 slug: aktualizace-firewallu-cisco-asa
-section: 'Pokročilé použití'
+section: Pokročilé použití
 ---
 
 **Poslední aktualizace 11/04/2018**

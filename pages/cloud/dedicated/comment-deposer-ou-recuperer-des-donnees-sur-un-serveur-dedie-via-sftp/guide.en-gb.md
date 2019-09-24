@@ -1,5 +1,5 @@
 ---
-title: 'Moving and retrieving data on a dedicated server via SFTP'
+title: Moving and retrieving data on a dedicated server via SFTP
 slug: store-retrieve-data-via-sftp
 excerpt: 'Transfer data easily from your dedicated server to your personal computer, and vice versa'
 section: Tutorial

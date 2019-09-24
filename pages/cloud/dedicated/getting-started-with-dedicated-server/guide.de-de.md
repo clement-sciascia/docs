@@ -1,8 +1,8 @@
 ---
-title: 'Erste Schritte mit einem Dedicated Server'
+title: Erste Schritte mit einem Dedicated Server
 slug: erste-schritte-dedicated-server
 excerpt: 'In dieser Anleitung erfahren Sie, wie Sie Ihren neuen dedizierten Server verwalten.'
-section: 'Erste Schritte'
+section: Erste Schritte
 ---
 
 **Stand 28.08.2018**

@@ -1,8 +1,8 @@
 ---
-title: 'Zmiana hasła administratora na serwerze Windows'
+title: Zmiana hasła administratora na serwerze Windows
 slug: zmiana-hasla-admin-windows
 excerpt: 'Dowiedz się, jak zmienić hasło administratora na serwerze dedykowanym z systemem Windows'
-section: 'Diagnostyka i tryb Rescue'
+section: Diagnostyka i tryb Rescue
 ---
 
 **Ostatnia aktualizacja z dnia 23-08-2018**

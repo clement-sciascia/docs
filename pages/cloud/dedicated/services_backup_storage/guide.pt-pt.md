@@ -1,5 +1,5 @@
 ---
-title: 'Utilizar o Backup Storage num servidor dedicado'
+title: Utilizar o Backup Storage num servidor dedicado
 slug: servicos-backup-storage
 excerpt: 'Saiba como ativar e utilizar o serviço Backup Storage'
 section: Armazenamento

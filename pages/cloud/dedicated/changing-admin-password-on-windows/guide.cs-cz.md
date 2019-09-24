@@ -1,8 +1,8 @@
 ---
-title: 'Změna administrátorského hesla Windows na dedikovaném serveru'
+title: Změna administrátorského hesla Windows na dedikovaném serveru
 slug: zmena-hesla-admin-windows
 excerpt: 'Seznamte se s postupem pro změnu administrátorského hesla na dedikovaném serveru s operačním systémem Windows'
-section: 'Diagnostika a režim rescue'
+section: Diagnostika a režim rescue
 ---
 
 **Poslední aktualizace 16/08/2018**

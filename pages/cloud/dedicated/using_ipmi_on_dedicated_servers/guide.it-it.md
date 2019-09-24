@@ -1,8 +1,8 @@
 ---
-title: 'Utilizzare l’IPMI sui server dedicati'
+title: Utilizzare l’IPMI sui server dedicati
 slug: utilizzo-ipmi-server-dedicati
 excerpt: 'Come connettersi al proprio server tramite IPMI senza utilizzare software esterni'
-section: 'Per iniziare'
+section: Per iniziare
 ---
 
 **Ultimo aggiornamento: 13/12/2018**

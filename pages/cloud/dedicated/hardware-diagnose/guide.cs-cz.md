@@ -1,5 +1,5 @@
 ---
-title: 'Hardwarová diagnostika'
+title: Hardwarová diagnostika
 slug: diagnostika-hardware-dedikovane-servery
 excerpt: 'Zjistěte, jak provést hardwarovou diagnostiku na svém dedikovaném serveru'
 section: Zabezpečení

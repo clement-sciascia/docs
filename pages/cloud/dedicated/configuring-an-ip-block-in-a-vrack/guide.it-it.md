@@ -1,5 +1,5 @@
 ---
-title: 'Configurare un blocco di indirizzi IP nella vRack'
+title: Configurare un blocco di indirizzi IP nella vRack
 slug: configurare-blocco-ip-nella-vRack
 excerpt: 'Scopri come configurare un blocco di indirizzi IP nella vRack'
 section: vRack

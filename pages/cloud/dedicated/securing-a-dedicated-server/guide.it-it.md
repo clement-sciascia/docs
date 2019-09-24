@@ -1,8 +1,8 @@
 ---
-title: 'Mettere in sicurezza un server dedicato'
+title: Mettere in sicurezza un server dedicato
 slug: mettere-in-sicurezza-un-server-dedicato
 excerpt: 'Scopri come proteggere un server dedicato grazie ad alcuni suggerimenti'
-section: 'Per iniziare'
+section: Per iniziare
 order: 2
 ---
 

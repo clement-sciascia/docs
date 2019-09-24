@@ -1,5 +1,5 @@
 ---
-title: 'Instalace CUDA na dedikovaném serveru GPU'
+title: Instalace CUDA na dedikovaném serveru GPU
 slug: instalace-cuda-dedikovany-server
 section: Ostatní
 ---

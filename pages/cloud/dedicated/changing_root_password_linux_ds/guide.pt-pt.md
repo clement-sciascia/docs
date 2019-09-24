@@ -1,8 +1,8 @@
 ---
-title: 'Alterar a palavra-passe root num servidor dedicado Linux'
+title: Alterar a palavra-passe root num servidor dedicado Linux
 slug: alterar-palavra-passe-root-linux-num-servidor-dedicado
 excerpt: 'Saiba como alterar a palavra-passe root num servidor dedicado Linux'
-section: 'Diagnóstico e Modo Rescue'
+section: Diagnóstico e Modo Rescue
 ---
 
 **Última atualização: 08/11/2018**

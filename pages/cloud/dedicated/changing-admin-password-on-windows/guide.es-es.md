@@ -1,8 +1,8 @@
 ---
-title: 'Cambiar la contraseña de administrador en un servidor dedicado Windows'
+title: Cambiar la contraseña de administrador en un servidor dedicado Windows
 slug: cambiar-contrasena-administrador-en-servidor-windows
 excerpt: 'Cómo cambiar la contraseña de administrador en un servidor dedicado Windows'
-section: 'Diagnóstico y modo de rescate'
+section: Diagnóstico y modo de rescate
 ---
 
 **Última actualización: 07/09/2018**

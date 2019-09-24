@@ -1,8 +1,8 @@
 ---
-title: 'Przypisanie wirtualnego adresu MAC do IP Failover'
+title: Przypisanie wirtualnego adresu MAC do IP Failover
 slug: network-virtual-mac
 excerpt: 'Dowiedz się, jak utworzyć wirtualny adres MAC i jak powiązać go z IP Failover'
-section: 'Sieć & IP'
+section: Sieć & IP
 ---
 
 **Ostatnia aktualizacja z dnia 08-11-2018**

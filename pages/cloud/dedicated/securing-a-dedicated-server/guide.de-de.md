@@ -1,8 +1,8 @@
 ---
-title: 'Einen dedizierten Server sichern'
+title: Einen dedizierten Server sichern
 slug: dedizierten-server-sichern
 excerpt: 'In dieser Anleitung erhalten Sie einige Tipps zur Sicherung Ihres dedizierten Servers.'
-section: 'Erste Schritte'
+section: Erste Schritte
 order: 2
 ---
 

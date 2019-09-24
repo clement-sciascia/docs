@@ -1,8 +1,8 @@
 ---
-title: 'Toewijzen van een virtueel MAC-adres aan een failover-IP'
+title: Toewijzen van een virtueel MAC-adres aan een failover-IP
 slug: netwerk-virtual-mac
 excerpt: 'Leer hoe u een virtueel MAC-adres kunt maken en hoe u dit kunt koppelen aan een failover-IP'
-section: 'Netwerk & IP'
+section: Netwerk & IP
 ---
 
 **Laatste update 09-08-2018**

@@ -1,5 +1,5 @@
 ---
-title: 'Comment déposer ou récupérer des données sur un serveur dédié via SFTP'
+title: Comment déposer ou récupérer des données sur un serveur dédié via SFTP
 slug: deposer-et-recuperer-donnees-via-sftp
 excerpt: 'Transférez simplement les informations de votre serveur dédié vers votre ordinateur personnel et inversement'
 section: Tutoriel

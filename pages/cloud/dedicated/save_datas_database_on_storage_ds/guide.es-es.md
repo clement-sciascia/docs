@@ -1,5 +1,5 @@
 ---
-title: 'Guardar copia de seguridad de la información y las bases de datos en un servidor de almacenamiento'
+title: Guardar copia de seguridad de la información y las bases de datos en un servidor de almacenamiento
 slug: guardar-copia-seguridad-informacion-bases-de-datos-servidor-almacenamiento
 excerpt: 'Cómo crear backups de sus datos en cinco sencillos pasos'
 section: Tutoriales

@@ -1,8 +1,8 @@
 ---
-title: 'Korzystanie z IPMI dla serwerów dedykowanych'
+title: Korzystanie z IPMI dla serwerów dedykowanych
 slug: uzywanie-ipmi-serwery-dedykowane
 excerpt: 'IPMI pozwala na połączenie się z serwerem bez korzystania z zewnętrznego oprogramowania'
-section: 'Pierwsze kroki'
+section: Pierwsze kroki
 ---
 
 **Ostatnia aktualizacja z dnia 23-08-2018**

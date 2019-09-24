@@ -1,8 +1,8 @@
 ---
-title: 'Virtuelle MAC-Adresse einer Failover-IP zuweisen'
+title: Virtuelle MAC-Adresse einer Failover-IP zuweisen
 slug: network-virtual-mac
 excerpt: 'Hier erfahren Sie, wie Sie eine virtuelle MAC-Adresse erstellen und mit einer Failover-IP verbinden.'
-section: 'IP & Netzwerk'
+section: IP & Netzwerk
 ---
 
 **Stand 03.04.2019**

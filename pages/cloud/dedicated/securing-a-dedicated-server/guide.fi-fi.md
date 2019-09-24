@@ -1,5 +1,5 @@
 ---
-title: 'Dedikoidun palvelimen suojaaminen'
+title: Dedikoidun palvelimen suojaaminen
 slug: dedikoidun-palvelimen-suojaaminen
 excerpt: 'Opi suojaamaan dedikoitu palvelimesi muutamien vinkkien avulla'
 section: Aluksi

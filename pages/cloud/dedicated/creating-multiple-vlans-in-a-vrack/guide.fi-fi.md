@@ -1,5 +1,5 @@
 ---
-title: 'Useiden VLAN-yhteyksien luominen virtuaaliräkissä'
+title: Useiden VLAN-yhteyksien luominen virtuaaliräkissä
 slug: vlanin-luominen-vrack
 excerpt: 'Katso, kuinka luodaan useita VLAN-yhteyksiä virtuaaliräkissä'
 section: vRack

@@ -1,5 +1,5 @@
 ---
-title: 'Backups von Daten und Datenbanken auf einem Storage Server erstellen'
+title: Backups von Daten und Datenbanken auf einem Storage Server erstellen
 slug: daten-datenbanken-backup-auf-storage-server
 excerpt: 'Daten-Backup in 5 Schritten'
 section: Tutorial

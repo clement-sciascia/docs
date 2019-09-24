@@ -1,8 +1,8 @@
 ---
-title: 'Remplacer un disque défectueux'
+title: Remplacer un disque défectueux
 slug: disk-replacement
 excerpt: 'Découvrez comment identifier un disque défectueux et demander son remplacement'
-section: 'RAID & disques'
+section: RAID & disques
 ---
 
 **Dernière mise à jour le 25/05/2018**

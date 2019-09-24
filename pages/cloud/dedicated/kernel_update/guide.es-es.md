@@ -1,8 +1,8 @@
 ---
-title: 'Actualizar el kernel en un servidor dedicado'
+title: Actualizar el kernel en un servidor dedicado
 excerpt: 'Cómo actualizar el kernel con una distribución que utilice un núcleo de OVH'
 slug: actualizar-kernel-servidor-dedicado
-section: 'Uso avanzado'
+section: Uso avanzado
 ---
 
 **Última actualización: 26/10/2018**

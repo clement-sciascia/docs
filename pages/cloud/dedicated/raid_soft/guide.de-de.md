@@ -2,7 +2,7 @@
 title: Software-RAID
 slug: soft-raid
 excerpt: 'Hier erfahren Sie, wie Sie das RAID-Array Ihres Servers im Fall von Störungen oder Festplattenschaden konfigurieren.'
-section: 'RAID & Festplatten'
+section: RAID & Festplatten
 ---
 
 **Stand 11.07.2019**

@@ -1,5 +1,5 @@
 ---
-title: 'Konfigurace dedikovaných serverů v rámci služby vRack'
+title: Konfigurace dedikovaných serverů v rámci služby vRack
 slug: konfigurace-dedikovanych-serveru-vrack
 excerpt: 'Zjistěte, jak nakonfigurovat své dedikované servery se službou vRack'
 section: vRack

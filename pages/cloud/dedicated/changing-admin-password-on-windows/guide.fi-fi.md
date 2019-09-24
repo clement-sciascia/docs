@@ -1,8 +1,8 @@
 ---
-title: 'Administraattorin salasanan vaihtaminen dedikoidulla Windows-palvelimella'
+title: Administraattorin salasanan vaihtaminen dedikoidulla Windows-palvelimella
 slug: admin-salasanan-vaihtaminen-windows
 excerpt: 'Katso, kuinka administraattorin salasana vaihdetaan dedikoidulla Windows-palvelimella'
-section: 'Vianhaku ja Rescue-tila'
+section: Vianhaku ja Rescue-tila
 ---
 
 **Päivitetty 30.8.2018**

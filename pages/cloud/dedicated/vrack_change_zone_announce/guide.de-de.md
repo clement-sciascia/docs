@@ -1,5 +1,5 @@
 ---
-title: 'IP-Block-Ankündigung im vRack ändern'
+title: IP-Block-Ankündigung im vRack ändern
 slug: ip-block-ankuendigung-im-vrack-aendern
 excerpt: 'So ändern Sie die IP-Block-Ankündigung im vRack'
 section: vRack

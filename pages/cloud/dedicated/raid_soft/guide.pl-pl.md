@@ -1,8 +1,8 @@
 ---
-title: 'Programowa macierz RAID'
+title: Programowa macierz RAID
 slug: raid-soft
 excerpt: 'Dowiedz się, jak odbudować macierz RAID Twojego serwera w przypadku awarii lub uszkodzenia dysku'
-section: 'RAID & dyski'
+section: RAID & dyski
 ---
 
 **Ostatnia aktualizacja z dnia 03-07-2019**

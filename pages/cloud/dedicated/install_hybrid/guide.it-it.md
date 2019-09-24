@@ -1,8 +1,8 @@
 ---
-title: 'Scegliere il gruppo di dischi su cui installare un sistema operativo'
+title: Scegliere il gruppo di dischi su cui installare un sistema operativo
 slug: scegliere-gruppo-dischi-per-installare-sistema-operativo
 excerpt: 'Come scegliere un gruppo di dischi specifico per installare il tuo sistema operativo'
-section: 'RAID & dischi'
+section: RAID & dischi
 ---
 
 **Ultimo aggiornamento: 17/05/2019**

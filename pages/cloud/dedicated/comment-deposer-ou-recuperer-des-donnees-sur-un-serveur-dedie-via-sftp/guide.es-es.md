@@ -1,5 +1,5 @@
 ---
-title: 'Subir o descargar datos en un servidor dedicado por SFTP'
+title: Subir o descargar datos en un servidor dedicado por SFTP
 slug: subir-y-descargar-datos-por-sftp
 excerpt: 'Cómo transferir datos desde un servidor dedicado hacia un ordenador personal y viceversa'
 section: Tutoriales

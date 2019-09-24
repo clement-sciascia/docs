@@ -1,8 +1,8 @@
 ---
-title: 'Aktualizacja jądra na serwerze dedykowanym'
+title: Aktualizacja jądra na serwerze dedykowanym
 slug: aktualizacja-jadro-kernel-serwer-dedykowany
 excerpt: 'Dowiedz się, jak zaktualizować kernel dystrybucji za pomocą jądra OVH'
-section: 'Poziom zaawansowany'
+section: Poziom zaawansowany
 ---
 
 **Ostatnia aktualizacja z dnia 28-09-2018**

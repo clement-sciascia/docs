@@ -1,8 +1,8 @@
 ---
-title: 'Using the IPMI with dedicated servers'
+title: Using the IPMI with dedicated servers
 slug: use-ipmi-dedicated-servers
 excerpt: 'With the IPMI, you can log in to your server without having to use any external software.'
-section: 'Getting started'
+section: Getting started
 ---
 
 **Last updated 16/08/2018**

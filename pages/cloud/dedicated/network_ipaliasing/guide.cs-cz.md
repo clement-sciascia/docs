@@ -1,8 +1,8 @@
 ---
-title: 'Jak nakonfigurovat IP jako alias'
+title: Jak nakonfigurovat IP jako alias
 slug: network-ipaliasing
 excerpt: 'Přidání IP fail-over adres k Vaší konfiguraci'
-section: 'Síť a IP adresy'
+section: Síť a IP adresy
 ---
 
 **Poslední aktualizace 07/09/2018**

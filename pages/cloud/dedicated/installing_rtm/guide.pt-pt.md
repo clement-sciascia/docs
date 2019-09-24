@@ -1,8 +1,8 @@
 ---
-title: 'Instalar o Real Time Monitoring (RTM)'
+title: Instalar o Real Time Monitoring (RTM)
 slug: instalar-rtm
 excerpt: 'Saiba como instalar o Real Time Monitoring em Linux'
-section: 'Diagnóstico e Modo Rescue'
+section: Diagnóstico e Modo Rescue
 ---
 
 **Última atualização: 06/08/2019**

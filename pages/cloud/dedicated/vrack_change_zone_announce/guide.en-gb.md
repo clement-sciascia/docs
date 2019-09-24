@@ -1,5 +1,5 @@
 ---
-title: 'Change the announcement of an IP block in vRack'
+title: Change the announcement of an IP block in vRack
 slug: change-anouncement-ip-block-vrack
 excerpt: 'Learn how to change the announcement of an IP block in vRack'
 section: vRack

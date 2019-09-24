@@ -1,8 +1,8 @@
 ---
-title: 'Výměna vadného disku'
+title: Výměna vadného disku
 slug: vymena-disku
 excerpt: 'Zjistěte, jak identifikovat vadný disk a jak požádat o jeho výměnu'
-section: 'RAID a disky'
+section: RAID a disky
 ---
 
 **Poslední aktualizace 25/06/2018**

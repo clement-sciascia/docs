@@ -1,5 +1,5 @@
 ---
-title: 'Zásady ukládání informací a databází na úložném serveru'
+title: Zásady ukládání informací a databází na úložném serveru
 slug: ukladani-informace-databaze-storage-servery
 excerpt: 'Zabezpečte svá data v pěti krocích'
 section: Tutoriál

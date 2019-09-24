@@ -1,8 +1,8 @@
 ---
-title: 'Configuratie van uw IP als alias'
+title: Configuratie van uw IP als alias
 slug: network-ipaliasing
 excerpt: 'Failover IP''s toevoegen aan uw configuratie-onderdeel'
-section: 'Netwerk & IP'
+section: Netwerk & IP
 ---
 
 **Laatste update 07-09-2018**

@@ -1,8 +1,8 @@
 ---
-title: 'Kovalevyn sarjanumeron hakeminen'
+title: Kovalevyn sarjanumeron hakeminen
 slug: kovalevyn-sarjanumeron-hakeminen
 excerpt: 'Katso, kuinka kovalevyn sarjanumero haetaan levyn korvaamista varten'
-section: 'RAID & levyt'
+section: RAID & levyt
 ---
 
 **Päivitetty 1.10.2018**

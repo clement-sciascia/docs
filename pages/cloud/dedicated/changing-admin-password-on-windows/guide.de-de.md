@@ -1,8 +1,8 @@
 ---
-title: 'Administrator-Passwort auf einem Windows Dedicated Server ändern'
+title: Administrator-Passwort auf einem Windows Dedicated Server ändern
 slug: "windows-admin-passwort-aendern"
 excerpt: 'Hier erfahren Sie, wie Sie das Administrator-Passwort auf einem Windows Dedicated Server ändern.'
-section: 'Diagnose und Rescue-Modus'
+section: Diagnose und Rescue-Modus
 ---
 
 **Stand 03.09.2018**

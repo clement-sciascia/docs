@@ -1,8 +1,8 @@
 ---
-title: 'Adding a domain to secondary DNS on a Dedicated Server'
+title: Adding a domain to secondary DNS on a Dedicated Server
 slug: secondary-dns
 excerpt: 'This guide will show you how to add a domain to secondary DNS of your Dedicated Server'
-section: 'Network Management'
+section: Network Management
 ---
 
 **Last updated 13th June 2018**

@@ -1,5 +1,5 @@
 ---
-title: 'Diagnosticare problemi hardware su un server dedicato'
+title: Diagnosticare problemi hardware su un server dedicato
 slug: diagnostica-problemi-hardware-server-dedicato
 excerpt: 'Scopri come individuare problemi di natura hardware su un server'
 section: Sicurezza

@@ -1,8 +1,8 @@
 ---
-title: 'Konfiguracja zapory sieciowej Network Firewall'
+title: Konfiguracja zapory sieciowej Network Firewall
 excerpt: 'Dowiedz się, jak skonfigurować reguły firewalla w OVH'
 slug: network-firewall
-section: 'Sieć & IP'
+section: Sieć & IP
 ---
 
 **Ostatnia aktualizacja z dnia 08-11-2018**

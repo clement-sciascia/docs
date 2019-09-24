@@ -1,8 +1,8 @@
 ---
-title: 'Rescue-tilan aktivointi ja käyttö'
+title: Rescue-tilan aktivointi ja käyttö
 slug: ovh-rescue
 excerpt: 'Kuinka rescue-tila aktivoidaan ja kuinka sitä käytetään dedikoidulla palvelimella'
-section: 'Vianhaku ja Rescue-tila'
+section: Vianhaku ja Rescue-tila
 ---
 
 **Päivitetty 24.8.2018**

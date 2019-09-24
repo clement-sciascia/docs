@@ -1,5 +1,5 @@
 ---
-title: 'Konfiguracja bloku IP w sieci vRack'
+title: Konfiguracja bloku IP w sieci vRack
 slug: dodawanie-lub-usuwanie-bloku-ip-vrack
 excerpt: 'Dowiedz się, jak skonfigurować blok publicznych adresów IP w sieci vRack'
 section: vRack

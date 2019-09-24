@@ -1,5 +1,5 @@
 ---
-title: 'Laitteistojen toimintahäiriöiden tunnistaminen dedikoidulla palvelimella'
+title: Laitteistojen toimintahäiriöiden tunnistaminen dedikoidulla palvelimella
 slug: vianhaku-laitteistojen-toimintahairiot-dedikoitu-palvelin
 excerpt: 'Katso, kuinka tunnistetaan laitteistojen toimintahäiriöitä dedikoidulla palvelimella'
 section: Tietoturva

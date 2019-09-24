@@ -1,8 +1,8 @@
 ---
-title: 'Pierwsze kroki z serwerem dedykowanym'
+title: Pierwsze kroki z serwerem dedykowanym
 slug: pierwsze-kroki-z-serwerem-dedykowanym
 excerpt: 'Poznaj podstawy korzystania z serwera dedykowanego'
-section: 'Pierwsze kroki'
+section: Pierwsze kroki
 order: 1
 ---
 

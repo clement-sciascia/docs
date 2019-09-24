@@ -1,5 +1,5 @@
 ---
-title: 'Utilizzare il Backup Storage su un server dedicato'
+title: Utilizzare il Backup Storage su un server dedicato
 slug: servizio-backup-storage
 excerpt: 'Come attivare e gestire l’opzione Backup Storage sul tuo server dedicato OVH'
 section: Storage

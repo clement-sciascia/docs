@@ -1,5 +1,5 @@
 ---
-title: 'Configurar vários servidores dedicados no vRack'
+title: Configurar vários servidores dedicados no vRack
 slug: configurar-varios-servidores-dedicados-no-vrack
 excerpt: 'Aprenda a configurar vários servidores dedicados graças ao vRack'
 section: vRack

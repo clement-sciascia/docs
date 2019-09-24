@@ -1,8 +1,8 @@
 ---
-title: 'Konfigurace síťového firewallu'
+title: Konfigurace síťového firewallu
 slug: firewall-network
 excerpt: 'Zjistěte, jak nakonfigurovat řešení Firewall Network'
-section: 'Síť a IP adresy'
+section: Síť a IP adresy
 ---
 
 **Poslední aktualizace 23/08/2018**

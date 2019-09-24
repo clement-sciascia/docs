@@ -1,8 +1,8 @@
 ---
-title: 'Configuratie van Network Firewall'
+title: Configuratie van Network Firewall
 slug: firewall-network
 excerpt: 'Leer hoe u uw Network Firewall kunt instellen'
-section: 'Netwerk & IP'
+section: Netwerk & IP
 ---
 
 **Laatste update 13-09-2018**

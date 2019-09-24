@@ -1,8 +1,8 @@
 ---
-title: 'Sustituir un disco'
+title: Sustituir un disco
 slug: sustitucion-disco
 excerpt: 'Cómo saber si falla un disco y solicitar su sustitución'
-section: 'RAID y discos'
+section: RAID y discos
 ---
 
 **Última actualización: 26/06/2018**

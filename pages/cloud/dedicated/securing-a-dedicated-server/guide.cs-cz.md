@@ -1,8 +1,8 @@
 ---
-title: 'Zabezpečení dedikovaného serveru'
+title: Zabezpečení dedikovaného serveru
 slug: zabezpeceni-dedikovany-server
 excerpt: 'Obecná doporučení pro zabezpečení Vašeho serveru'
-section: 'První kroky'
+section: První kroky
 order: 2
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'Viallisen levyn vaihtaminen'
+title: Viallisen levyn vaihtaminen
 slug: disk-replacement
 excerpt: 'Opi tunnistamaan viallinen levy ja pyytämään sen vaihtamista'
-section: 'RAID & levyt'
+section: RAID & levyt
 ---
 
 **Päivitetty 23.8.2018**

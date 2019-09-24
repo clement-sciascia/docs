@@ -1,5 +1,5 @@
 ---
-title: 'Alterar o anúncio de um bloco IP no vRack'
+title: Alterar o anúncio de um bloco IP no vRack
 slug: alterar-anuncio-bloco-ip-vrack
 excerpt: 'Saiba como alterar o anúncio de um bloco IP no vRack'
 section: vRack

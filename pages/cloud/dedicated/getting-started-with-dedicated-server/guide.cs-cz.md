@@ -1,8 +1,8 @@
 ---
-title: 'Začínáme s dedikovaným serverem'
+title: Začínáme s dedikovaným serverem
 slug: zaciname-s-dedikovanym-serverem
 excerpt: 'Naučte se spravovat svůj dedikovaný server'
-section: 'První kroky'
+section: První kroky
 ---
 
 **Poslední aktualizace 22/08/2018**

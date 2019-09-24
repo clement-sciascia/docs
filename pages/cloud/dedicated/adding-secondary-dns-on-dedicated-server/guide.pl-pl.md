@@ -1,8 +1,8 @@
 ---
-title: 'Dodawanie domeny do Secondary DNS'
+title: Dodawanie domeny do Secondary DNS
 slug: dodawanie-domeny-secondary-dns
 excerpt: 'Dowiedz się, jak dodać domene do Secondary DNS dla Twojego serwera dedykowanego'
-section: 'Poziom zaawansowany'
+section: Poziom zaawansowany
 ---
 
 **Ostatnia aktualizacja z dnia 09-10-2018**

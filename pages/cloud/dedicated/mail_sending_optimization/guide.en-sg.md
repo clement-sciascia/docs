@@ -1,5 +1,5 @@
 ---
-title: 'Optimising the sending of emails'
+title: Optimising the sending of emails
 slug: optimise-email-sending
 excerpt: 'Find out how to send emails and limit the risk of them being marked as spam'
 section: Advanced

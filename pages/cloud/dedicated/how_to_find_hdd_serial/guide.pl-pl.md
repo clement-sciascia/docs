@@ -1,8 +1,8 @@
 ---
-title: 'Ustalenie numeru seryjnego dysku twardego'
+title: Ustalenie numeru seryjnego dysku twardego
 slug: ustalenie-numeru-seryjnego-dysku
 excerpt: 'Dowiedz się, jak ustalić numer seryjny dysku, aby przystąpić do jego wymiany'
-section: 'RAID & dyski'
+section: RAID & dyski
 ---
 
 **Ostatnia aktualizacja z dnia 03-07-2019**

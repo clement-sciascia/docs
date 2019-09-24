@@ -1,8 +1,8 @@
 ---
-title: 'Configuring the vRack between the Public Cloud and a Dedicated Server'
+title: Configuring the vRack between the Public Cloud and a Dedicated Server
 slug: vrack-pci-ds
 excerpt: 'This guide will show you how to configure private networking between a Public Cloud instance and a Dedicated Server.'
-section: 'Network Management'
+section: Network Management
 ---
 
 **Last updated 18th June 2018**

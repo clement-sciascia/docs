@@ -1,8 +1,8 @@
 ---
-title: 'IP-osoitteen konfigurointi aliaksena'
+title: IP-osoitteen konfigurointi aliaksena
 slug: network-ipaliasing
 excerpt: 'Fail-over IP -osoitteiden lisääminen konfiguraatioon'
-section: 'Verkko & IP'
+section: Verkko & IP
 ---
 
 **Päivitetty 07.09.2017**

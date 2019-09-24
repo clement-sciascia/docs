@@ -1,8 +1,8 @@
 ---
-title: 'Konfiguration von IP-Aliasing'
+title: Konfiguration von IP-Aliasing
 slug: network-ipaliasing
 excerpt: 'So fügen Sie Failover-IPs zu Ihrer Konfiguration hinzu'
-section: 'IP & Netzwerk'
+section: IP & Netzwerk
 ---
 
 **Stand 07.09.2018**

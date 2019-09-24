@@ -1,8 +1,8 @@
 ---
-title: 'Changer le mot de passe administrateur sur un serveur dédié Windows'
+title: Changer le mot de passe administrateur sur un serveur dédié Windows
 slug: changer-mot-passe-admin-windows
 excerpt: 'Découvrez comment changer le mot de passe administrateur sur un serveur dédié Windows'
-section: 'Diagnostic et mode Rescue'
+section: Diagnostic et mode Rescue
 ---
 
 **Dernière mise à jour le 30/08/2018**

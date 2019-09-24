@@ -1,8 +1,8 @@
 ---
-title: 'Beveiligen van een dedicated server'
+title: Beveiligen van een dedicated server
 slug: beveiligen-dedicated-server
 excerpt: 'Tips over het beveiligen van uw dedicated server'
-section: 'Eerste stappen'
+section: Eerste stappen
 order: 2
 ---
 

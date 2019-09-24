@@ -1,5 +1,5 @@
 ---
-title: 'Configurar un bloque de IP en el vRack'
+title: Configurar un bloque de IP en el vRack
 slug: configurar-un-bloque-ip-en-el-vrack
 excerpt: 'Cómo configurar un bloque de direcciones IP públicas en el vRack'
 section: vRack

@@ -1,8 +1,8 @@
 ---
-title: 'Atualizar a firewall CISCO ASA'
+title: Atualizar a firewall CISCO ASA
 excerpt: 'Saiba como atualizar a firewall CISCO ASA'
 slug: atualizar-firewall-cisco-asa
-section: 'Uso avançado'
+section: Uso avançado
 ---
 
 **Última atualização: 28/05/2018**

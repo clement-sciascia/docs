@@ -1,8 +1,8 @@
 ---
-title: 'Aan de slag met uw dedicated server'
+title: Aan de slag met uw dedicated server
 slug: eerste-stappen-dedicated-server
 excerpt: 'Enkele tips over hoe u uw nieuwe dedicated server kunt beheren'
-section: 'Aan de slag'
+section: Aan de slag
 ---
 
 **Laatste update 16-08-2018**

@@ -1,8 +1,8 @@
 ---
-title: 'Escolher um conjunto de discos para instalar um sistema operativo'
+title: Escolher um conjunto de discos para instalar um sistema operativo
 slug: escolher-conjunto-discos-para-instalar-sistema-operativo
 excerpt: 'Saiba como escolher um conjunto de discos específico para instalar um sistema operativo'
-section: 'RAID e discos'
+section: RAID e discos
 ---
 
 **Última atualização: 29/11/2018**

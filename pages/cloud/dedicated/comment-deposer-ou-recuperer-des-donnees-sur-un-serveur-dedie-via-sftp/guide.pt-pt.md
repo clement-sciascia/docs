@@ -1,5 +1,5 @@
 ---
-title: 'Saiba como carregar ou descarregar dados num servidor dedicado através de SFTP'
+title: Saiba como carregar ou descarregar dados num servidor dedicado através de SFTP
 slug: carregar-e-descarregar-dados-através-de-sftp
 excerpt: 'Transfira informações do servidor dedicado para o computador pessoal, e vice-versa'
 section: Tutoriais

@@ -1,8 +1,8 @@
 ---
-title: 'Utilizar IPMI en un servidor dedicado'
+title: Utilizar IPMI en un servidor dedicado
 slug: utilizar-ipmi-servidor-dedicado
 excerpt: 'Cómo conectarse a un servidor mediante IPMI, sin necesidad de utilizar software externo'
-section: 'Primeros pasos'
+section: Primeros pasos
 ---
 
 **Última actualización: 24/08/2018**

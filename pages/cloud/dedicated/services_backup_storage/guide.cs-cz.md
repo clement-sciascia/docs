@@ -1,5 +1,5 @@
 ---
-title: 'Backup Storage'
+title: Backup Storage
 slug: backup-storage
 excerpt: 'Zjistěte, jak aktivovat a používat funkci Backup Storage na svém dedikovaném serveru'
 section: Úložiště

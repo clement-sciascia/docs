@@ -1,8 +1,8 @@
 ---
-title: 'Activering en gebruik van de reddingsmodus'
+title: Activering en gebruik van de reddingsmodus
 slug: ovh-rescue
 excerpt: 'Reddingsmodus activeren en gebruiken op een dedicated server'
-section: 'Diagnose en reddingsmodus'
+section: Diagnose en reddingsmodus
 ---
 
 **Laatste update 16-08-2018**

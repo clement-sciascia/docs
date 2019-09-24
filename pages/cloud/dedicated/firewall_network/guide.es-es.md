@@ -1,8 +1,8 @@
 ---
-title: 'Configurar el firewall de red'
+title: Configurar el firewall de red
 slug: firewall-de-red
 excerpt: 'Cómo configurar el firewall de red'
-section: 'Red e IP'
+section: Red e IP
 ---
 
 **Última actualización: 20/09/2018**

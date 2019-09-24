@@ -1,8 +1,8 @@
 ---
-title: 'Modificare la password di root su un server dedicato Linux'
+title: Modificare la password di root su un server dedicato Linux
 slug: modificare-password-root-server-linux
 excerpt: 'Come modificare la password dell’utente root su un server Linux'
-section: 'Diagnostica e modalità Rescue'
+section: Diagnostica e modalità Rescue
 ---
 
 **Ultimo aggiornamento: 05/12/2018**

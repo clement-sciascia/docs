@@ -1,8 +1,8 @@
 ---
-title: 'Sostituire un disco difettoso'
+title: Sostituire un disco difettoso
 slug: sostituzione-disco
 excerpt: 'Scopri come individuare un disco difettoso e chiederne la sostituzione'
-section: 'RAID & dischi'
+section: RAID & dischi
 ---
 
 **Ultimo aggiornamento: 12/07/2018**

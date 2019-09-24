@@ -1,8 +1,8 @@
 ---
-title: 'Eine defekte Festplatte austauschen'
+title: Eine defekte Festplatte austauschen
 slug: disk-replacement
 excerpt: 'In dieser Anleitung erklären wir Ihnen, wie Sie eine defekte Festplatte erkennen und deren Austausch beantragen.'
-section: 'RAID & Festplatten'
+section: RAID & Festplatten
 ---
 
 **Stand 28.08.2018**

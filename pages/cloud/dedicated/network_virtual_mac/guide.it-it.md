@@ -1,8 +1,8 @@
 ---
-title: 'Assegnare un MAC virtuale a un IP Failover'
+title: Assegnare un MAC virtuale a un IP Failover
 slug: network-virtual-mac
 excerpt: 'Scopri come aggiungere un indirizzo MAC virtuale e come associarlo a un IP Failover'
-section: 'Rete e IP'
+section: Rete e IP
 ---
 
 **Ultimo aggiornamento: 29/11/2018**

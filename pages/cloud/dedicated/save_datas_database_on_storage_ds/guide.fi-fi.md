@@ -1,5 +1,5 @@
 ---
-title: 'Tietojen ja tietokantojen tallennus storage-palvelimelle'
+title: Tietojen ja tietokantojen tallennus storage-palvelimelle
 slug: tietojen-tietokantojen-tallennus-storage-palvelin
 excerpt: '5 vaihetta tietojen suojaamiseen'
 section: Opas

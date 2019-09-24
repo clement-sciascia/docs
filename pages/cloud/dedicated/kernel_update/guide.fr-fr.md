@@ -1,8 +1,8 @@
 ---
-title: 'Mettre à jour le kernel sur un serveur dédié'
+title: Mettre à jour le kernel sur un serveur dédié
 slug: mettre-a-jour-kernel-serveur-dedie
 excerpt: 'Découvrez comment mettre à jour le kernel d’une distribution utilisant un noyau OVH'
-section: 'Utilisation avancée'
+section: Utilisation avancée
 ---
 
 **Dernière mise à jour le 03/08/2018**

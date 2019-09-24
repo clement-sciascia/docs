@@ -1,5 +1,5 @@
 ---
-title: 'Zmiana strefy rozgłaszania bloku IP w sieci vRack'
+title: Zmiana strefy rozgłaszania bloku IP w sieci vRack
 slug: zmiana-rozglaszania-bloku-ip-vrack
 excerpt: 'Dowiedz się, jak zmienić strefę rozgłaszania bloku IP w sieci vRack'
 section: vRack

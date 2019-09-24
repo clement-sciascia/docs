@@ -1,5 +1,5 @@
 ---
-title: 'Storage-Backup auf einem dedizierten Server verwenden'
+title: Storage-Backup auf einem dedizierten Server verwenden
 slug: dienste-storage-backup
 excerpt: 'So aktivieren und verwenden Sie Ihr Storage-Backup'
 section: Storage

@@ -1,5 +1,5 @@
 ---
-title: 'Gebruik van Backup Storage op een dedicated server'
+title: Gebruik van Backup Storage op een dedicated server
 slug: diensten-backup-storage
 excerpt: 'Ontdek hoe u uw Backup Storage kunt activeren en gebruiken'
 section: Opslagruimte

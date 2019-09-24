@@ -1,8 +1,8 @@
 ---
-title: 'Vervanging van een defecte schijf'
+title: Vervanging van een defecte schijf
 slug: schijf-vervanging
 excerpt: 'Ontdek hoe u een defecte schijf kunt identificeren en vervanging ervan kunt aanvragen'
-section: 'RAID & schijven'
+section: RAID & schijven
 ---
 
 **Laatste update 07-06-2018**

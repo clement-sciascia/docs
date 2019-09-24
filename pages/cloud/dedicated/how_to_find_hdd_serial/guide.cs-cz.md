@@ -1,8 +1,8 @@
 ---
-title: 'Sériové číslo pevného disku'
+title: Sériové číslo pevného disku
 slug: seriove-cislo-pevneho-disku
 excerpt: 'Zjistěte, jak získat sériové číslo pevného disku'
-section: 'RAID a disky'
+section: RAID a disky
 ---
 
 **Poslední aktualizace 12/09/2018**

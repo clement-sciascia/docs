@@ -1,8 +1,8 @@
 ---
-title: 'Changing the admin password on a Windows Dedicated Server'
+title: Changing the admin password on a Windows Dedicated Server
 slug: windows-admin-password-change
 excerpt: 'This guide will show you how to change the admin password on a Windows dedicated server.'
-section: 'Server Management'
+section: Server Management
 ---
 
 **Last updated 6th June 2018**

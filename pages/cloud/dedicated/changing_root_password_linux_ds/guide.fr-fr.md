@@ -1,8 +1,8 @@
 ---
-title: 'Changer le mot de passe root sur un serveur dédié sous Linux'
+title: Changer le mot de passe root sur un serveur dédié sous Linux
 slug: changer-mot-passe-root-linux-sur-serveur-dedie
 excerpt: 'Découvrez comment modifier le mot de passe root de votre serveur, pour des raisons de sécurité ou suite à un oubli'
-section: 'Diagnostic et mode Rescue'
+section: Diagnostic et mode Rescue
 ---
 
 **Dernière mise à jour le 20/06/2018**

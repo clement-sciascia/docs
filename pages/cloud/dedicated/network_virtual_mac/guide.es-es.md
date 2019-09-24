@@ -1,8 +1,8 @@
 ---
-title: 'Asignar una MAC virtual a una IP Failover'
+title: Asignar una MAC virtual a una IP Failover
 slug: mac-virtual
 excerpt: 'Cómo crear una dirección MAC virtual y asociarle una IP failover'
-section: 'Red e IP'
+section: Red e IP
 ---
 
 **Última actualización: 30/10/2018**

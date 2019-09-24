@@ -1,5 +1,5 @@
 ---
-title: 'Tworzenie kilku sieci VLAN w prywatnej sieci vRack'
+title: Tworzenie kilku sieci VLAN w prywatnej sieci vRack
 slug: tworzenie-vlan-vrack
 excerpt: 'Dowiedz się, jak utworzyć kilka sieci VLAN w prywatnej sieci vRack'
 section: vRack

@@ -1,8 +1,8 @@
 ---
-title: 'Zabezpieczanie serwera dedykowanego'
+title: Zabezpieczanie serwera dedykowanego
 slug: porady-zabezpieczanie-serwera-dedykowanego
 excerpt: 'Dowiedz się, jak zwiększyć bezpieczeństwo serwera dedykowanego'
-section: 'Pierwsze kroki'
+section: Pierwsze kroki
 order: 2
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'Aktualizacja zapory sieciowej CISCO ASA'
+title: Aktualizacja zapory sieciowej CISCO ASA
 slug: aktualizacja-firewall-cisco-asa
 excerpt: 'Dowiedz się, jak zaktualizować zaporę sieciową CISCO ASA'
-section: 'Poziom zaawansowany'
+section: Poziom zaawansowany
 ---
 
 **Ostatnia aktualizacja dnia 2018-03-28**

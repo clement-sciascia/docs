@@ -1,8 +1,8 @@
 ---
-title: 'Kernelin päivitys dedikoidulla palvelimella'
+title: Kernelin päivitys dedikoidulla palvelimella
 slug: kernelin-paivitys-dedikoitu-palvelin
 excerpt: 'Katso, kuinka distribuution kernel päivitetään OVH:n ydintä käyttämällä'
-section: 'Edistynyt käyttö'
+section: Edistynyt käyttö
 ---
 
 **Päivitetty 12.9.2018**

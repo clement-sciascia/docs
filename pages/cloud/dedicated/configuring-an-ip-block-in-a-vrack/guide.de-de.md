@@ -1,5 +1,5 @@
 ---
-title: 'IP-Block im vRack konfigurieren'
+title: IP-Block im vRack konfigurieren
 slug: vrack-ip-block-hinzufuegen-oder-entfernen
 excerpt: 'So konfigurieren Sie einen öffentlichen IP-Adressblock im vRack'
 section: vRack

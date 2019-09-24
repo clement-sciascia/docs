@@ -1,5 +1,5 @@
 ---
-title: 'Korzystanie z Backup Storage na serwerze dedykowanym'
+title: Korzystanie z Backup Storage na serwerze dedykowanym
 slug: usluga-backup-storage
 excerpt: 'Dowiedz się, jak aktywować usługę Backup Storage'
 section: Storage

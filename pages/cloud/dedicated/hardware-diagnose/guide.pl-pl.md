@@ -1,8 +1,8 @@
 ---
-title: 'Diagnostyka usterek sprzętowych serwera dedykowanego'
+title: Diagnostyka usterek sprzętowych serwera dedykowanego
 slug: diagnostyka-usterek-sprzetowych-serwera-dedykowanego
 excerpt: 'Dowiedz się, jak przeprowadzić diagnostykę uszkodzeń fizycznych serwera dedykowanego'
-section: 'Diagnostyka i tryb Rescue'
+section: Diagnostyka i tryb Rescue
 ---
 
 **Ostatnia aktualizacja z dnia 05-08-2018**

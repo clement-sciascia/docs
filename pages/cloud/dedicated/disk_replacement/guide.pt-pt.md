@@ -1,8 +1,8 @@
 ---
-title: 'Substituir um disco com defeito'
+title: Substituir um disco com defeito
 slug: substituicao-disco
 excerpt: 'Saiba como identificar um disco com defeito e pedir a sua substituição'
-section: 'RAID e discos'
+section: RAID e discos
 ---
 
 **Última atualização: 20/06/2018**

@@ -1,8 +1,8 @@
 ---
-title: 'Hot-swapping a disk on a server with a software RAID configuration'
+title: Hot-swapping a disk on a server with a software RAID configuration
 slug: hotswap-raid-soft
 excerpt: 'Find out the main steps to follow in order to hot-swap a disk on a server with a software RAID configuration'
-section: 'RAID & disks'
+section: RAID & disks
 ---
 
 **Last updated 21st November 2016**

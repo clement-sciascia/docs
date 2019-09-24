@@ -1,8 +1,8 @@
 ---
-title: 'Configuring IP aliasing'
+title: Configuring IP aliasing
 slug: network-ipaliasing
 excerpt: 'This guide explains how to add failover IPs to your configuration'
-section: 'Network Management'
+section: Network Management
 ---
 
 **Last updated 16th October 2018**

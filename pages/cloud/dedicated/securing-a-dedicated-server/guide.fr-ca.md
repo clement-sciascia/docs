@@ -1,8 +1,8 @@
 ---
-title: 'Sécuriser un serveur dédié'
+title: Sécuriser un serveur dédié
 slug: securiser-un-serveur-dedie
 excerpt: 'Apprenez à sécuriser votre serveur dédié grâce à quelques conseils'
-section: 'Premiers pas'
+section: Premiers pas
 order: 2
 ---
 

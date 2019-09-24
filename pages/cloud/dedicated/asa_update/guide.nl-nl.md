@@ -1,8 +1,8 @@
 ---
-title: 'Upgraden van de CISCO ASA firewall'
+title: Upgraden van de CISCO ASA firewall
 excerpt: 'Ontdek hoe u uw CISCO ASA firewall kunt upgraden'
 slug: upgrade-firewall-cisco-asa
-section: 'Geavanceerd gebruik'
+section: Geavanceerd gebruik
 ---
 
 **Laatste update 12-03-2018**

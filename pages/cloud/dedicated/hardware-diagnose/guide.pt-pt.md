@@ -1,5 +1,5 @@
 ---
-title: 'Diagnosticar avarias materiais num servidor dedicado'
+title: Diagnosticar avarias materiais num servidor dedicado
 slug: diagnostico-avarias-materiais-servidor-dedicado
 excerpt: 'Saiba como diagnosticar avarias materiais no seu servidor dedicado'
 section: Segurança

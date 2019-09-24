@@ -1,8 +1,8 @@
 ---
-title: 'RAID por software'
+title: RAID por software
 slug: raid-soft
 excerpt: 'Saiba como configurar o RAID de um servidor em caso de avaria ou de falha de disco'
-section: 'RAID e discos'
+section: RAID e discos
 ---
 
 **Última atualização: 22/07/2019**

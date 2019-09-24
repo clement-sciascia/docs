@@ -1,8 +1,8 @@
 ---
-title: 'Hardware diagnostics'
+title: Hardware diagnostics
 slug: hardware-diagnostics
 excerpt: 'This guide will show you how to diagnose hardware issues on your server.'
-section: 'Diagnostic and rescue mode'
+section: Diagnostic and rescue mode
 ---
 
 **Last updated 07th June 2018**

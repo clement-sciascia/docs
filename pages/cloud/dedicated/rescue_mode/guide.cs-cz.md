@@ -1,8 +1,8 @@
 ---
-title: 'Aktivace a použití režimu rescue'
+title: Aktivace a použití režimu rescue
 slug: ovh-rescue
 excerpt: 'Zjistěte, jak pracovat s režimem rescue na dedikovaném serveru OVH'
-section: 'Diagnostika a režim rescue'
+section: Diagnostika a režim rescue
 ---
 
 **Poslední aktualizace 20/08/2018**

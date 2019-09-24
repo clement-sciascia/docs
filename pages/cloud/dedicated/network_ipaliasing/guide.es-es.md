@@ -1,8 +1,8 @@
 ---
-title: 'Configurar una IP como alias'
+title: Configurar una IP como alias
 slug: network-ipaliasing
 excerpt: 'Cómo añadir direcciones IP Failover a la configuración de un servidor'
-section: 'Red e IP'
+section: Red e IP
 ---
 
 **Última actualización: 07/09/2018**

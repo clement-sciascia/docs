@@ -1,8 +1,8 @@
 ---
-title: 'Configuring software RAID'
+title: Configuring software RAID
 slug: raid-soft
 excerpt: 'This guide will help you configure your server’s RAID array in the event that it needs to be rebuilt due to corruption or disk failure.'
-section: 'Server Management'
+section: Server Management
 ---
 
 **Last updated 16th October 2018**

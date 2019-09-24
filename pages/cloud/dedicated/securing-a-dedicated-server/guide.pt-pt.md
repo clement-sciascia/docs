@@ -1,5 +1,5 @@
 ---
-title: 'Proteger um servidor dedicado'
+title: Proteger um servidor dedicado
 slug: proteger-um-servidor-dedicado
 excerpt: 'Saiba como proteger o seu servidor dedicado graças a estas dicas'
 section: Introdução

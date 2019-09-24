@@ -1,8 +1,8 @@
 ---
-title: 'Configuring a network bridge'
+title: Configuring a network bridge
 slug: network-bridging
 excerpt: 'This guide will show you how configure your virtual machines for access to the public internet'
-section: 'Network Management'
+section: Network Management
 ---
 
 **Last updated 27th May 2019**

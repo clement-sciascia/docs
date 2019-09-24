@@ -1,8 +1,8 @@
 ---
-title: 'Mettere in sicurezza un server con Memcached'
+title: Mettere in sicurezza un server con Memcached
 slug: mettere-in-sicurezza-un-server-con-memcached
 excerpt: 'Come proteggere il server con Memcached'
-section: 'Uso avanzato'
+section: Uso avanzato
 ---
 
 **Ultimo aggiornamento: 24/08/2018**

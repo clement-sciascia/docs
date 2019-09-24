@@ -1,8 +1,8 @@
 ---
-title: 'Aktualizace kernelu na dedikovaném serveru'
+title: Aktualizace kernelu na dedikovaném serveru
 slug: aktualizace-kernelu-dedikovany-server
 excerpt: 'Zjistěte, jak aktualizovat OVH jádro na své distribuci'
-section: 'Pokročilé použití'
+section: Pokročilé použití
 ---
 
 **Poslední aktualizace 23/08/2018**

@@ -1,8 +1,8 @@
 ---
-title: 'Cisco ASA Firewall aktualisieren'
+title: Cisco ASA Firewall aktualisieren
 slug: cisco-asa-firewall-aktualisieren
 excerpt: 'Hier erfahren Sie, wie Sie Ihre Cisco ASA Firewall aktualisieren.'
-section: 'Fortgeschrittene Nutzung'
+section: Fortgeschrittene Nutzung
 ---
 
 **Stand 16.08.2018**

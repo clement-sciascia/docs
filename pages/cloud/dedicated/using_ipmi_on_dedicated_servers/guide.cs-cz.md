@@ -1,8 +1,8 @@
 ---
-title: 'Použití konzole IPMI pro dedikované servery'
+title: Použití konzole IPMI pro dedikované servery
 slug: pouziti-ipmi-dedikovane-servery
 excerpt: 'Díky IPMI se můžete připojit ke svému serveru bez použití externího softwaru'
-section: 'První kroky'
+section: První kroky
 ---
 
 **Poslední aktualizace 20/08/2018**

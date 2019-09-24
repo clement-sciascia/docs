@@ -1,5 +1,5 @@
 ---
-title: 'Tworzenie kopii danych i baz danych na serwerze Storage'
+title: Tworzenie kopii danych i baz danych na serwerze Storage
 slug: tworzenie-kopii-danych-i-baz-danych-na-serwerze-storage
 excerpt: 'Zabezpiecz Twoje dane w 5 krokach'
 section: Tutoriale

@@ -1,7 +1,7 @@
 ---
-title: 'Configuring the Network Firewall'
+title: Configuring the Network Firewall
 slug: firewall-network
-section: 'Network Management'
+section: Network Management
 ---
 
 **Last updated 2nd April 2019**

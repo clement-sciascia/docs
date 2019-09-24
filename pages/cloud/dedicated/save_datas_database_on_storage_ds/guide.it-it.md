@@ -1,5 +1,5 @@
 ---
-title: 'Eseguire il backup di dati e database su un server di storage'
+title: Eseguire il backup di dati e database su un server di storage
 slug: eseguire-backup-dati-database-server-storage
 excerpt: 'Come proteggere i tuoi dati in 5 step'
 section: Tutorial

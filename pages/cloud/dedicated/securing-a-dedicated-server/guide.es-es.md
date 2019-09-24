@@ -1,8 +1,8 @@
 ---
-title: 'Proteger un servidor dedicado'
+title: Proteger un servidor dedicado
 slug: seguridad-de-un-servidor-dedicado
 excerpt: 'Medidas de seguridad para proteger un servidor dedicado'
-section: 'Primeros pasos'
+section: Primeros pasos
 order: 2
 ---
 

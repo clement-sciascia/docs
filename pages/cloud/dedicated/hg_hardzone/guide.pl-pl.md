@@ -1,5 +1,5 @@
 ---
-title: 'HG Hardzone'
+title: HG Hardzone
 excerpt: 'Instrukcja dotycząca wykonania testów wydajności na serwerze HG Hardzone'
 slug: hg_hardzone
 section: Inne

@@ -1,5 +1,5 @@
 ---
-title: 'vRack zwischen Public Cloud und Dedicated Server einrichten'
+title: vRack zwischen Public Cloud und Dedicated Server einrichten
 slug: vrack-zwischen-public-cloud-dedicated-server-einrichten
 excerpt: 'Hier erfahren Sie, wie Sie ein privates Netzwerk zwischen einer Public Cloud Instanz und einem dedizierten Server einrichten.'
 section: vRack
