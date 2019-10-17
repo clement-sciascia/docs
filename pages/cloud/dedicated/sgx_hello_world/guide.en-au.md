@@ -74,7 +74,7 @@ Now we will install Intel's driver and SDK to be able to develop and run SGX app
 
 First, let's install some dependencies :
 ```bash
-apt-get install build-essential ocaml ocamlbuild automake autoconf libtool wget python libssl-dev libcurl4-openssl-dev protobuf-compiler libprotobuf-dev debhelper cmake
+sudo apt-get install build-essential ocaml ocamlbuild automake autoconf libtool wget python libssl-dev libcurl4-openssl-dev protobuf-compiler libprotobuf-dev debhelper cmake git
 ```
 
 Then, download, build and install the SGX software stack :
